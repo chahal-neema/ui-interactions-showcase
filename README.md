@@ -1,3 +1,3 @@
 # ui-interactions-showcase
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/chahal-neema/ui-interactions-showcase)
+Visit https://reliable-marigold-2391ff.netlify.app/ to check it out.
